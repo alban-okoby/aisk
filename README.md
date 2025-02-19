@@ -5,4 +5,8 @@ Ai tools for productivity 🚀
 
 ## Personalized AI Research Assistant - Hands On
 - [NoteBookLM](https://notebooklm.google/)
-- 
+  
+## Supercharged Note Taking
+- [Obesian](https://obsidian.md/)
+- [Setting up Groq](https://groq.com/)
+  
