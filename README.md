@@ -17,4 +17,7 @@ v0 is a powerful tool designed to streamline the process of converting wireframe
 ## Hyperrealism
 Flux is family of text to image models from Black Forest Labs that are outstanding in the generation of hyperrealistic images, that are nearly indistinguishable. The models are made available on fal.ai playground.
 - [FLUX](https://fal.ai/)
-  
+
+## Next-Gen Content Creation - Hands On
+**Kling AI** is its ability to generate high quality and very realistic videos from text and image promptsImage Generation.
+- [Kling AI](https://klingai.com/)
