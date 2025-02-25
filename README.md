@@ -21,3 +21,11 @@ Flux is family of text to image models from Black Forest Labs that are outstandi
 ## Next-Gen Content Creation - Hands On
 **Kling AI** is its ability to generate high quality and very realistic videos from text and image promptsImage Generation.
 - [Kling AI](https://klingai.com/)
+
+## Voices in the Machine - Text-to-Speech Tools
+There are countless tools to try out Text-to-Speech, both open-source and commercial. Among the open sources ones, here are the most widely used:
+- [Bark](https://github.com/suno-ai/bark)
+- [https://elevenlabs.io/](https://elevenlabs.io/)
+- [HierSpeechpp](https://github.com/sh-lee-prml/HierSpeechpp)
+- [Play](https://play.ht/)
+
