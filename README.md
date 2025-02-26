@@ -28,4 +28,15 @@ There are countless tools to try out Text-to-Speech, both open-source and commer
 - [https://elevenlabs.io/](https://elevenlabs.io/)
 - [HierSpeechpp](https://github.com/sh-lee-prml/HierSpeechpp)
 - [Play](https://play.ht/)
+- [Suno](https://suno.com)
+
+## Generating 3D objects from text and image
+There are several tools and services that offer generation of 3D objects from text or image. However, we curated the following five tools that you can get started with for free. Some of them are open source while the others provide free tiers.
+- [Meshy AI](https://www.meshy.ai/) Your Ultimate AI 3D Model Generator
+- [Genie] AI(https://lumalabs.ai/genie?view=create)
+- [Tripo3d AI](https://www.tripo3d.ai/)
+- [TripoSR](https://huggingface.co/spaces/stabilityai/TripoSR)
+  
+
+
 
