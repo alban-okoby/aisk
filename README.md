@@ -1,7 +1,7 @@
 # aisk
 Ai tools for productivity 🚀
 ## Build MVP fast with AI
-[https://www.val.town/](https://www.val.town/)
+[Val](https://www.val.town/)
 
 ## Personalized AI Research Assistant - Hands On
 - [NoteBookLM](https://notebooklm.google/)
@@ -25,7 +25,7 @@ Flux is family of text to image models from Black Forest Labs that are outstandi
 ## Voices in the Machine - Text-to-Speech Tools
 There are countless tools to try out Text-to-Speech, both open-source and commercial. Among the open sources ones, here are the most widely used:
 - [Bark](https://github.com/suno-ai/bark)
-- [https://elevenlabs.io/](https://elevenlabs.io/)
+- [Elevenlabs](https://elevenlabs.io/)
 - [HierSpeechpp](https://github.com/sh-lee-prml/HierSpeechpp)
 - [Play](https://play.ht/)
 - [Suno](https://suno.com)
@@ -33,9 +33,14 @@ There are countless tools to try out Text-to-Speech, both open-source and commer
 ## Generating 3D objects from text and image
 There are several tools and services that offer generation of 3D objects from text or image. However, we curated the following five tools that you can get started with for free. Some of them are open source while the others provide free tiers.
 - [Meshy AI](https://www.meshy.ai/) Your Ultimate AI 3D Model Generator
-- [Genie] AI(https://lumalabs.ai/genie?view=create)
+- [Genie AI](https://lumalabs.ai/genie?view=create)
 - [Tripo3d AI](https://www.tripo3d.ai/)
 - [TripoSR](https://huggingface.co/spaces/stabilityai/TripoSR)
+
+## Generative Video Effects - Hands On
+Generative video effects are innovative processes that integrate artificial intelligence with artistic expression
+- [Pika](https://pika.art/login)
+- [Pixverse](https://app.pixverse.ai/onboard)
   
 
 
