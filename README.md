@@ -41,6 +41,10 @@ There are several tools and services that offer generation of 3D objects from te
 Generative video effects are innovative processes that integrate artificial intelligence with artistic expression
 - [Pika](https://pika.art/login)
 - [Pixverse](https://app.pixverse.ai/onboard)
+
+## Text Rendering and Style Control
+
+- [Ideogram](https://ideogram.ai/t/explore) Ideogram 2.0, an innovative tool that excels at generating graphic designs based on specified prompts and styles. It provides various services to generate realistic images, Designs, 3D and Anime.
   
 
 
