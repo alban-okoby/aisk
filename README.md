@@ -43,9 +43,11 @@ Generative video effects are innovative processes that integrate artificial inte
 - [Pixverse](https://app.pixverse.ai/onboard)
 
 ## Text Rendering and Style Control
-
 - [Ideogram](https://ideogram.ai/t/explore) Ideogram 2.0, an innovative tool that excels at generating graphic designs based on specified prompts and styles. It provides various services to generate realistic images, Designs, 3D and Anime.
-  
 
+## Using Powerful Open Source and Proprietary Large Language Models For Free
+- [Le chat of Mistral](https://mistral.ai/news/le-chat-mistral) Chat is a conversational entry point to interact with the various models from Mistral AI. It offers a pedagogical and fun way to explore Mistral AI’s techno
+- [https://huggingface.co/chat/](https://huggingface.co/chat/)
+- [GroqChat]() Groq is developing a technology to accelerate GenAI processing, enabling the creation of real-time AI applications
 
 
