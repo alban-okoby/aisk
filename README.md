@@ -50,4 +50,7 @@ Generative video effects are innovative processes that integrate artificial inte
 - [https://huggingface.co/chat/](https://huggingface.co/chat/)
 - [GroqChat]() Groq is developing a technology to accelerate GenAI processing, enabling the creation of real-time AI applications
 
-
+## NVIDIA NIMS
+- [Nvidia NIM](https://build.nvidia.com/nim)
+- [Nvidia Edify](https://www.nvidia.com/en-us/gpu-cloud/edify/)
+- [Nvdia Deepfake-image-detection](https://build.nvidia.com/hive/deepfake-image-detection)
