@@ -27,7 +27,7 @@ Your collection of AI tools to boost your productivity 🚀
 
 ### Personalized AI Research Assistant
 - [NoteBookLM](https://notebooklm.google/)
-- 
+  
 ## Automation
 ### Generative UI
 v0 is a powerful tool designed to streamline the process of converting wireframes into code, among other features. You can ask followup question to refine your designs or even generate logic implementations. Its a Generative UI service made by Vercel
@@ -74,6 +74,7 @@ Generative video effects are innovative processes that integrate artificial inte
 - [Le chat of Mistral](https://mistral.ai/news/le-chat-mistral) Chat is a conversational entry point to interact with the various models from Mistral AI. It offers a pedagogical and fun way to explore Mistral AI’s techno
 - [Huggingface](https://huggingface.co/chat/) The AI community building the future. · Models · Spaces · Datasets · The Home of Machine Learning · Accelerate your ML
 - [GroqChat](https://groq.com/) Groq is developing a technology to accelerate GenAI processing, enabling the creation of real-time AI applications
+  
 ----------------------------------------------
 
 ### Leveled-Up Diagrams
