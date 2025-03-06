@@ -77,6 +77,7 @@ Generative video effects are innovative processes that integrate artificial inte
 ----------------------------------------------
 
 ### Leveled-Up Diagrams
+- [Napkin AI](https://www.napkin.ai/) Napkin turns your text into visuals so sharing your ideas is quick and effective.
 ----------------------------------------------
 
 ## General AI Purpose
